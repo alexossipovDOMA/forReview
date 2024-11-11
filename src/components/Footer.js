@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer() {
   return (
     <footer>
-        Все права защищены &copy;
+        Все права спиздали с левого сайта &copy;
     </footer>
   )
 }
